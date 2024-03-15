@@ -1,0 +1,35 @@
+body {
+    font-family: "Barriecito", system-ui; ;
+background:navy;
+}
+.header_div{
+    background:red;
+    color:blueviolet;
+}
+.header_div p{
+    font-family: "Homemade Apple", cursive;
+    color:brown;
+    letter-spacing:2px;
+    font-size:12px;
+    font-weight: bolder;
+}
+.main_div_button{
+    font-family: "Are You Serious", cursive;
+    color:orangered;
+    margin-top:30px;
+    width:130px;
+    font-weight: 900;
+    letter-spacing:3px;
+
+}
+.copy_right_footer{
+    position:fixed;
+    color:pink;
+    bottom:0;
+    width:100%;
+    font: size 18px;
+    background-color:blanchedalmond;
+    line-height:3;
+    text-align:center;
+    text-shadow: 5px 5px 5px rosybrown;
+}
